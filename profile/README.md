@@ -1,6 +1,6 @@
 ## Gore Engine
 
-Make Game Engine Greate Again !!!!! (((
+Make Game Engine Greate Again !!!!!
 
 <!--
 
